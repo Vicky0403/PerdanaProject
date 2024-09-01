@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>Muhammad Vicky s</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="container">       
+        <!-- NAVIGATION BAR -->
+        <div class="navbar-container">
+            <ul class="ul-navbar">
+                <li class="li-navbar">
+                    <a href="#" class="a-navbar">HOME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="about.html" class="a-navbar">ABOUT ME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="contact.html" class="a-navbar">CONTACT ME</a>
+                </li>
+            </ul>
+        </div>
+        <!-- NAVIGATION BAR END -->
+
+        <!-- CONTENT 1 -->
+        <div class="container-content">
+            <a href="https://youtube.com/jonathanliandi"
+            class="a-content">
+            <img src="youtube 01.png" class="img-content" />
+            <p>GASS MAMPIR KEMARI GUYS!!</p>
+            </a>
+            
+        </div>
+        <!-- CONTENT 1 END -->
+
+        <!-- FOOTER -->
+        <div class="container-footer">
+            <h1 class="h1-footer">Website ini di buat sepenuh hati </h1>
+        </div>
+        <!-- FOOTER END -->
+        </div>
+    </body>
+</html>
